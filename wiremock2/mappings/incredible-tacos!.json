@@ -1,0 +1,19 @@
+{
+  "priority": 10,
+  "request": {
+    "method": "GET",
+    "urlPattern": "/products/fJ1Ff16FDF"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "id": "fJ1Ff16FDF",
+      "name": "Incredible Tacos!",
+      "unit_price": 199,
+      "promotions": []
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "priority": 10,
+  "request": {
+    "method": "GET",
+    "urlPattern": "/products/jF1Hh4F5f"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "id": "jF1Hh4F5f",
+      "name": "Unbelievable Shake!",
+      "unit_price": 1099,
+      "promotions": [
+        {
+          "id": "ibt3EEYczW",
+          "type": "QTY_BASED_PRICE_OVERRIDE_RANDOM_SUFFIX",
+          "required_quantity": 2,
+          "unit_price": 1799
+        }
+      ]
+    }
+  }
+}

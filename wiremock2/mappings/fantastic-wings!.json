@@ -1,0 +1,26 @@
+{
+  "priority": 10,
+  "request": {
+    "method": "GET",
+    "urlPattern": "/products/FKlMG41ffa"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "id": "FKlMG41ffa",
+      "name": "Fantastic Wings!",
+      "unit_price": 999,
+      "promotions": [
+        {
+          "id": "ZRAwbsO2qM",
+          "type": "BUY_X_GET_Y_FREE_RANDOM_SUFFIX",
+          "required_quantity": 2,
+          "free_quantity": 1
+        }
+      ]
+    }
+  }
+}

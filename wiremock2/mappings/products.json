@@ -1,0 +1,35 @@
+{
+  "priority": 10,
+  "request": {
+    "method": "GET",
+    "urlPattern": "/products"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": [
+      {
+        "id": "FKlMG41ffa",
+        "name": "Fantastic Wings!",
+        "unit_price": 1099
+      },
+      {
+        "id": "fJ1Ff16FDF",
+        "name": "Incredible Tacos!",
+        "unit_price": 999
+      },
+      {
+        "id": "D1F5h1f4",
+        "name": "Super Nachos!",
+        "unit_price": 499
+      },
+      {
+        "id": "jF1Hh4F5f",
+        "name": "Unbelievable Shake!",
+        "unit_price": 199
+      }
+    ]
+  }
+}
