@@ -1,6 +1,6 @@
 # API for a checkout system
 
-This API is a checkout system for a fictional supermarket. The idea is that the API allows the total cost of a basket, considering prices and promotions.
+This API is a checkout system for a fictional supermarket. The idea is that the API allows you to calculate the total cost of a basket, considering prices and promotions.
 
 ## Technologies
 
