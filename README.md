@@ -2,7 +2,7 @@
 
 This API is a checkout system for a fictional supermarket. The idea is that the API allows you to calculate the total cost of a basket, considering prices and promotions.
 
-## Technologies
+## :hammer: Technologies
 
 - **Spring Boot**
 - **Hibernate / JPA**
@@ -12,7 +12,7 @@ This API is a checkout system for a fictional supermarket. The idea is that the 
 - **MapStruct**
 - **Swagger**
 
-## Overview of the API
+## 📋 Overview of the API
 
 The API is designed to offer flexibility and scalability for tenant-specific configurations. It ensures seamless integration, modularity, and isolation between tenants. Below are the key features:
 
@@ -37,7 +37,7 @@ Tenants are completely isolated from one another.
 Changes or data from one tenant do not interfere with other tenants, ensuring data integrity and system reliability.
 
 
-## API Endpoints
+## 🌐 API Endpoints
 
 This document provides details on the most important API endpoints for managing baskets and performing checkout operations. Additional endpoints and configurations can be found in the Swagger documentation.
 
@@ -146,7 +146,7 @@ This document provides details on the most important API endpoints for managing 
 
 
 
-## Follow up questions
+## ❓ Follow up questions
 ### 1. How long did you spend on the test? What would you add if you had more time?
   Due to my routine, specifically at the end of November, it took me a little over a week to complete the challenge. I believe that with more time I could have implemented a larger battery of tests.
   
